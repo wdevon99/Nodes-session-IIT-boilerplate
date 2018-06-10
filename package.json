@@ -1,0 +1,16 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "lol"
+  },
+  "author": "aathif sana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
+  }
+}
